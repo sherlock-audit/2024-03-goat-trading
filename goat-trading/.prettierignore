@@ -1,0 +1,15 @@
+node_modules
+artifacts
+cache
+coverage*
+gasReporterOutput.json
+.env.example
+
+src/types
+data
+typechain
+
+# foundry
+lib/
+forge_cache/
+out/

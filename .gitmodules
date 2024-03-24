@@ -1,0 +1,3 @@
+[submodule "goat-trading/lib/openzeppelin-contracts"]
+	path = goat-trading/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
