@@ -8,3 +8,13 @@
 # Q&A
 
 # Audit scope
+
+
+[goat-trading @ 4f37c8edf9715c719143a70cc4f63fb92cb2abba](https://github.com/inedibleX/goat-trading/tree/4f37c8edf9715c719143a70cc4f63fb92cb2abba)
+- [goat-trading/contracts/exchange/GoatV1ERC20.sol](goat-trading/contracts/exchange/GoatV1ERC20.sol)
+- [goat-trading/contracts/exchange/GoatV1Factory.sol](goat-trading/contracts/exchange/GoatV1Factory.sol)
+- [goat-trading/contracts/exchange/GoatV1Pair.sol](goat-trading/contracts/exchange/GoatV1Pair.sol)
+- [goat-trading/contracts/library/GoatLibrary.sol](goat-trading/contracts/library/GoatLibrary.sol)
+- [goat-trading/contracts/library/GoatTypes.sol](goat-trading/contracts/library/GoatTypes.sol)
+- [goat-trading/contracts/periphery/GoatRouterV1.sol](goat-trading/contracts/periphery/GoatRouterV1.sol)
+
